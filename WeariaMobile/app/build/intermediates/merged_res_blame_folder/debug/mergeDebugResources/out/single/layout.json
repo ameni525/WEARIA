@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_register.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_routine.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_routine.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/item_routine.xml",
+        "source": "com.wearia.app-main-6:/layout/item_routine.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/item_clothing.xml",
+        "source": "com.wearia.app-main-6:/layout/item_clothing.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_login.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/item_outfit_part.xml",
+        "source": "com.wearia.app-main-6:/layout/item_outfit_part.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_wardrobe.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_wardrobe.xml"
+    },
+    {
+        "merged": "com.wearia.app-mergeDebugResources-3:/layout/activity_add_clothing.xml",
+        "source": "com.wearia.app-main-6:/layout/activity_add_clothing.xml"
+    }
+]

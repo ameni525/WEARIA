@@ -1,0 +1,31 @@
+# --- Python (Backend & AI) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+*.sqlite3
+*.db
+
+# --- Kotlin / Android (Mobile) ---
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# --- Base de données & Config ---
+*.log
+config/secrets.json
+
+# --- VS Code ---
+.vscode/

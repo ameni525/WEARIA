@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wearia</string>
+    <string name="login_title">Bienvenue sur Wearia</string>
+    <string name="login_subtitle">Votre assistant vestimentaire intelligent</string>
+    <string name="email_hint">Adresse e-mail</string>
+    <string name="password_hint">Mot de passe (8 caractères min)</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="no_account">Pas encore de compte ? S\'inscrire</string>
+    <string name="register_title">Créer un compte</string>
+    <string name="name_hint">Nom complet</string>
+    <string name="city_hint">Ville (ex: Tunis)</string>
+    <string name="btn_register">S\'inscrire</string>
+    <string name="have_account">Déjà un compte ? Se connecter</string>
+    <string name="wardrobe_title">Mon Dressing</string>
+    <string name="outfit_of_the_day">Tenue du jour</string>
+    <string name="btn_generate_outfit">Générer une tenue</string>
+    <string name="add_clothing">Ajouter un vêtement</string>
+    <string name="scan_ai">Analyser avec l\'IA (HOG + KNN)</string>
+    <string name="clothing_name">Nom du vêtement</string>
+    <string name="category">Catégorie</string>
+    <string name="color">Couleur dominante</string>
+    <string name="status">Statut</string>
+    <string name="btn_save">Enregistrer</string>
+</resources>

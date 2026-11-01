@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wearia.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:7:5-65
+13-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission
+14-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:8:5-107
+15        android:name="android.permission.READ_EXTERNAL_STORAGE"
+15-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:8:22-77
+16        android:maxSdkVersion="32" />
+16-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:8:78-104
+17    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+17-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:9:5-76
+17-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:9:22-73
+18
+19    <permission
+19-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+20        android:name="com.wearia.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.wearia.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:11:5-60:19
+26        android:allowBackup="true"
+26-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:12:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.12.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\948ea93376d2df8997db53e26c53dabf\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:13:9-65
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:fullBackupContent="@xml/backup_rules"
+31-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:14:9-54
+32        android:icon="@drawable/ic_launcher"
+32-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:15:9-45
+33        android:label="@string/app_name"
+33-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:16:9-41
+34        android:networkSecurityConfig="@xml/network_security_config"
+34-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:21:9-69
+35        android:roundIcon="@drawable/ic_launcher_round"
+35-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:17:9-56
+36        android:supportsRtl="true"
+36-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:18:9-35
+37        android:testOnly="true"
+38        android:theme="@style/Theme.Wearia"
+38-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:19:9-44
+39        android:usesCleartextTraffic="true" >
+39-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:20:9-44
+40        <activity
+40-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:24:9-31:20
+41            android:name="com.wearia.app.ui.auth.LoginActivity"
+41-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:25:13-50
+42            android:exported="true" >
+42-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:26:13-36
+43            <intent-filter>
+43-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:27:13-30:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:28:17-69
+44-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:28:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:29:17-77
+46-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:29:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:33:9-36:67
+50            android:name="com.wearia.app.ui.auth.RegisterActivity"
+50-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:34:13-53
+51            android:exported="false"
+51-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:35:13-37
+52            android:parentActivityName="com.wearia.app.ui.auth.LoginActivity" />
+52-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:36:13-64
+53        <activity
+53-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:38:9-40:40
+54            android:name="com.wearia.app.ui.MainActivity"
+54-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:39:13-44
+55            android:exported="false" />
+55-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:40:13-37
+56        <activity
+56-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:42:9-46:61
+57            android:name="com.wearia.app.ui.dressing.WardrobeActivity"
+57-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:43:13-57
+58            android:exported="false"
+58-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:44:13-37
+59            android:label="Mon Dressing"
+59-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:45:13-41
+60            android:parentActivityName="com.wearia.app.ui.MainActivity" />
+60-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:46:13-58
+61        <activity
+61-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:48:9-52:74
+62            android:name="com.wearia.app.ui.dressing.AddClothingActivity"
+62-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:49:13-60
+63            android:exported="false"
+63-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:50:13-37
+64            android:label="Ajouter un vêtement"
+64-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:51:13-48
+65            android:parentActivityName="com.wearia.app.ui.dressing.WardrobeActivity" />
+65-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:52:13-71
+66        <activity
+66-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:54:9-58:61
+67            android:name="com.wearia.app.ui.routine.RoutineActivity"
+67-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:55:13-55
+68            android:exported="false"
+68-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:56:13-37
+69            android:label="Routines Hebdomadaires"
+69-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:57:13-51
+70            android:parentActivityName="com.wearia.app.ui.MainActivity" />
+70-->C:\Users\ASUS\.gemini\antigravity\scratch\wearia\WeariaMobile\app\src\main\AndroidManifest.xml:58:13-58
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.wearia.app.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\d79d6af538096df724c5a1e19f1773e5\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\68b711437c3269ef64fe6065e9143bf4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\68b711437c3269ef64fe6065e9143bf4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\68b711437c3269ef64fe6065e9143bf4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+85        </provider>
+86
+87        <receiver
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+88            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+89            android:directBootAware="false"
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+90            android:enabled="true"
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+91            android:exported="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+92            android:permission="android.permission.DUMP" >
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+94                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+97                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+100                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+101            </intent-filter>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+103                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ASUS\.gradle\caches\9.0-milestone-1\transforms\542df4cc0e8674dc9b945c200dfb00bb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+104            </intent-filter>
+105        </receiver>
+106    </application>
+107
+108</manifest>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.wearia.app-debug-4:/xml_network_security_config.xml.flat",
+        "source": "com.wearia.app-main-6:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.wearia.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_login.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/menu_menu_main.xml.flat",
+        "source": "com.wearia.app-main-6:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_register.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.wearia.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.wearia.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.wearia.app-main-6:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.wearia.app-main-6:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.wearia.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.wearia.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_add_clothing.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_add_clothing.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_wardrobe.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_wardrobe.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_item_outfit_part.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/item_outfit_part.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_item_routine.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/item_routine.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_activity_routine.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/activity_routine.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/menu_menu_wardrobe.xml.flat",
+        "source": "com.wearia.app-main-6:/menu/menu_wardrobe.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/layout_item_clothing.xml.flat",
+        "source": "com.wearia.app-main-6:/layout/item_clothing.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.wearia.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.wearia.app-debug-4:/drawable_ic_launcher.xml.flat",
+        "source": "com.wearia.app-main-6:/drawable/ic_launcher.xml"
+    }
+]

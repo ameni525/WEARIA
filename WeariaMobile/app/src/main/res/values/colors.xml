@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E1E1E</color>
+    <color name="primary_variant">#000000</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#C5A880</color>
+    <color name="secondary_variant">#8E735B</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="background_page">#F7F4F0</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_title">#1C1917</color>
+    <color name="text_body">#57534E</color>
+    <color name="text_muted">#A8A29E</color>
+
+    <color name="badge_available">#16A34A</color>
+    <color name="badge_dirty">#DC2626</color>
+    <color name="badge_laundry">#EA580C</color>
+
+    <color name="divider">#E7E5E4</color>
+    <color name="chip_selected">#1E1E1E</color>
+    <color name="chip_unselected">#E7E5E4</color>
+</resources>

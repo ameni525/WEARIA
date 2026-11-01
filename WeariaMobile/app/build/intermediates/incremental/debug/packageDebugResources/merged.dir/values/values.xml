@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_page">#F7F4F0</color>
+    <color name="badge_available">#16A34A</color>
+    <color name="badge_dirty">#DC2626</color>
+    <color name="badge_laundry">#EA580C</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="chip_selected">#1E1E1E</color>
+    <color name="chip_unselected">#E7E5E4</color>
+    <color name="divider">#E7E5E4</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="primary">#1E1E1E</color>
+    <color name="primary_variant">#000000</color>
+    <color name="secondary">#C5A880</color>
+    <color name="secondary_variant">#8E735B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_body">#57534E</color>
+    <color name="text_muted">#A8A29E</color>
+    <color name="text_title">#1C1917</color>
+    <string name="add_clothing">Ajouter un vêtement</string>
+    <string name="app_name">Wearia</string>
+    <string name="btn_generate_outfit">Générer une tenue</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_register">S\'inscrire</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="category">Catégorie</string>
+    <string name="city_hint">Ville (ex: Tunis)</string>
+    <string name="clothing_name">Nom du vêtement</string>
+    <string name="color">Couleur dominante</string>
+    <string name="email_hint">Adresse e-mail</string>
+    <string name="have_account">Déjà un compte ? Se connecter</string>
+    <string name="login_subtitle">Votre assistant vestimentaire intelligent</string>
+    <string name="login_title">Bienvenue sur Wearia</string>
+    <string name="name_hint">Nom complet</string>
+    <string name="no_account">Pas encore de compte ? S\'inscrire</string>
+    <string name="outfit_of_the_day">Tenue du jour</string>
+    <string name="password_hint">Mot de passe (8 caractères min)</string>
+    <string name="register_title">Créer un compte</string>
+    <string name="scan_ai">Analyser avec l\'IA (HOG + KNN)</string>
+    <string name="status">Statut</string>
+    <string name="wardrobe_title">Mon Dressing</string>
+    <style name="Theme.Wearia" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:statusBarColor">@color/background_page</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background_page</item>
+    </style>
+</resources>
