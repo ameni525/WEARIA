@@ -1,10 +1,10 @@
 # 👗 Wearia — Assistant Vestimentaire Intelligent
-**Projet d'Intégration L3 DSI2 — ISET de Radès**  
+**Projet d'Intégration ISET de Radès**  
 *Binôme : Mohamed Omar Ben Hamda & Ameni Homri*
 
 ---
 
-## 🎯 Livrables Réalisés : Sprint 1 & Sprint 2
+##  Livrables Réalisés :
 
 Conformément au cahier des charges et au planning de cadrage, les **Sprint 1** et **Sprint 2** sont intégralement implémentés en respectant scrupuleusement les notions étudiées en cours :
 
@@ -16,7 +16,7 @@ Conformément au cahier des charges et au planning de cadrage, les **Sprint 1** 
 
 ---
 
-## 📂 Structure du Projet
+## Structure du Projet
 
 ```text
 wearia/
@@ -52,24 +52,20 @@ wearia/
 
 ---
 
-## 🚀 Guide de Démarrage Rapide
+##  Guide de Démarrage Rapide
 
 ### 1. Démarrer le Backend FastAPI
 Ouvrez un terminal ou VS Code dans le dossier `wearia_backend` :
-```powershell
-cd C:\Users\ASUS\.gemini\antigravity\scratch\wearia\wearia_backend
-python run.py
 ```
 *Le serveur démarre sur `http://localhost:8000`. Vous pouvez tester la documentation interactive Swagger sur : `http://localhost:8000/docs`.*
 
 > **Base de données :**
-> Le backend est configuré pour se connecter à PostgreSQL avec l'utilisateur `postgres` et le mot de passe `admin` sur la base `wearia_db`. Si votre service PostgreSQL n'est pas actif lors du lancement, l'application bascule automatiquement sur une base locale SQLite (`wearia.db`), vous permettant de tester sans aucun blocage !
+> Le backend est configuré pour se connecter à PostgreSQL avec l'utilisateur `postgres` et le mot de passe `*****` sur la base `wearia_db`. Si votre service PostgreSQL n'est pas actif lors du lancement, l'application bascule automatiquement sur une base locale SQLite (`wearia.db`), vous permettant de tester sans aucun blocage !
 
 ### 2. Comptes de Démonstration Pré-configurés
 Des données de test sont déjà insérées automatiquement au démarrage :
 - **E-mail :** `ameni@wearia.tn`
 - **Mot de passe :** `password123`
-*(Garde-robe comprenant déjà 4 pièces complètes et une routine active le lundi pour l'Université)*
 
 ### 3. Ouvrir l'Application dans Android Studio
 1. Lancez **Android Studio**.
